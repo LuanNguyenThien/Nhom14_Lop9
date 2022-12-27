@@ -1,0 +1,10 @@
+﻿  Drawing.cpp
+C:\Users\My PC\Downloads\Social Media\Drawing\graphics.h(41,56): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\My PC\Downloads\Social Media\Drawing\graphics.h(42,56): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\My PC\Downloads\Social Media\Drawing\graphics.h(311,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\My PC\Downloads\Social Media\Drawing\graphics.h(312,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\My PC\Downloads\Social Media\Drawing\Drawing.cpp(407,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\My PC\Downloads\Social Media\Drawing\Drawing.cpp(570,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\My PC\Downloads\Social Media\Drawing\Drawing.cpp(540,10): warning C4101: 'test': unreferenced local variable
+C:\Users\My PC\Downloads\Social Media\Drawing\Drawing.cpp(692,9): warning C4101: 'k': unreferenced local variable
+  Drawing.vcxproj -> C:\Users\My PC\Downloads\Social Media\x64\Debug\Drawing.exe
