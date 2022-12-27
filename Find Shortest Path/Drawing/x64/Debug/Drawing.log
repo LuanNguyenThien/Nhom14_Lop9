@@ -1,0 +1,4 @@
+﻿  Drawing.cpp
+C:\Users\My PC\Desktop\Find Shortest Path\Drawing\graphics.h(238,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\My PC\Desktop\Find Shortest Path\Drawing\graphics.h(239,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+  Drawing.vcxproj -> C:\Users\My PC\Desktop\Find Shortest Path\x64\Debug\Drawing.exe
